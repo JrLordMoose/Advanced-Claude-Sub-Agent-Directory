@@ -1,7 +1,3 @@
----
-notetoolbar: Notes (default)
-cssclasses: hide-properties
----
 # Universal UX/UI Designer Agent Template for GitHub
 
 ## 📋 Template Overview
