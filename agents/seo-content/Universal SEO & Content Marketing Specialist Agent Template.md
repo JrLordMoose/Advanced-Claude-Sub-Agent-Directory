@@ -1,18 +1,3 @@
----
-notetoolbar: Notes (default)
-cssclasses: hide-properties
----
-
-```button
-name On/Off Properties
-type command
-action Toggle fold properties in current file
-templater true
-class custom-button-plugin
-```
-^button-tog-propbttn
-
----
 ## 📋 Template Overview
 
 **Version:** 1.0.0  
